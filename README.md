@@ -116,13 +116,14 @@ A complete taxi job + taxi faction system featuring meter UI, duty mode, dispatc
 
 ---
 
-# 💬 Support
+# ⭐ Support / Contact
 
-For custom scripts, installation help, or full server systems:
+### If you want custom scripts, help, or upgrades, contact me:
 
-**Discord:** @SaiRam
-**Gumroad:** [https://saimusick.gumroad.com/](https://saimusick.gumroad.com/)
-**GitHub:** [https://github.com/sairamkishan300](https://github.com/sairamkishan300)
+Discord: @sairamkishan (https://discord.gg/C6yGdAEWEa)
+
+MTA Forum: https://community.multitheftauto.com/index.php?p=profile&id=536289
+
 
 ---
 
