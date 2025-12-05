@@ -1,5 +1,3 @@
----
-
 # 💎 SaiRam’s Premium MTA:SA Resources Repository
 
 ### High-Quality, Advanced Systems for Professional Roleplay Servers
