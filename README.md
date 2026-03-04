@@ -1,6 +1,6 @@
 # 💎 SaiRam’s Premium MTA:SA Resources Repository
 
-### I RELEASED ALL MY SCRITPS FOR FREE NOW ! ! ! DO CHECK IT OUT AND SUPPORT ME BY GIVING ME CREDITS AND DONATING ME :)
+### 🗣️🔥 I RELEASED ALL MY SCRITPS FOR FREE NOW ! ! ! DO CHECK IT OUT AND SUPPORT ME BY GIVING ME CREDITS AND DONATING ME :) 😊
 
 ### High-Quality, Advanced Systems for Professional Roleplay Servers
 
