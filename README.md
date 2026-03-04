@@ -1,5 +1,7 @@
 # 💎 SaiRam’s Premium MTA:SA Resources Repository
 
+### I RELEASED ALL MY SCRITPS FOR FREE NOW ! ! ! DO CHECK IT OUT AND SUPPORT ME BY GIVING ME CREDITS AND DONATING ME :)
+
 ### High-Quality, Advanced Systems for Professional Roleplay Servers
 
 This repository serves as the **official index for all my paid MTA:SA systems**, available on Gumroad.
